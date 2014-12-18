@@ -13,8 +13,9 @@
   "author": "George Erickson",
   "license": "ISC",
   "dependencies": {
-    "js-string-escape": "",
-    "browserify-through": ""
+    "browserify-through": "",
+    "jade": "^1.8.2",
+    "js-string-escape": ""
   },
   "peerDependencies": {
     "jade": "",
