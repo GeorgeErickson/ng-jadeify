@@ -1,0 +1,23 @@
+{
+  "name": "ng-jadeify",
+  "version": "1.0.0",
+  "description": "A browserify transform for converting .jade files into angular files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browserify",
+    "jade"
+  ],
+  "author": "George Erickson",
+  "license": "ISC",
+  "dependencies": {
+    "js-string-escape": "",
+    "browserify-through": ""
+  },
+  "peerDependencies": {
+    "jade": "",
+    "browserify": ""
+  }
+}
