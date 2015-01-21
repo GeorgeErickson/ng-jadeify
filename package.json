@@ -1,6 +1,6 @@
 {
   "name": "ng-jadeify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A browserify transform for converting .jade files into angular files",
   "main": "index.js",
   "scripts": {
@@ -16,9 +16,5 @@
     "browserify-through": "",
     "jade": "^1.8.2",
     "js-string-escape": ""
-  },
-  "peerDependencies": {
-    "jade": "",
-    "browserify": ""
   }
 }
